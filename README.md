@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macRimrose
-- 👀 I’m interested in algorithms, web development and mathematics. 
-- 🌱 I’m currently coming back to programming, after a stint in math research, relearning java/springboot and the Javascript Universe ...
+- 👀 I’m interested in Algorithms, Web development and Mathematics. 
+- 🌱 I’m currently coming back to Programming, after a stint in Math research, relearning Java/Springboot and the Javascript Universe ...
 
 
 
